@@ -1,0 +1,39 @@
+body {
+  background-image: url("../img/cork-board.jpg");
+}
+/*#polaroid {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+
+}*/
+
+#dolphin {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+  height: 639px;
+  width:636px;
+  top:116px;
+  left: 134px;
+}
+
+.relative {
+  position: relative;
+  top: 200px;
+  left: 200px;
+}
+#polaroid {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+}
+
+#pin {
+  position: relative;
+  left: 200px;
+  bottom: 100px;
+}
